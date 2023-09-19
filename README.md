@@ -1,2 +1,2 @@
 # EaglercraftDomainBlacklist
-A blacklist of Eaglercraft domains known to be hosting hacked clients.
+A blacklist of  domains known to be hosting Eaglercraft hacked clients.

@@ -50,6 +50,7 @@
 .*arvin.*\.repl\.co$
 .*lolz.*
 .*zach.*\.repl\.co$
+.*eagler\.almondnet\.cn$
 
 # block ambiguous domains (excuse the regex skill issues)
 ^(?!g\.deev\.is).*deev\.is$

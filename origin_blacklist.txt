@@ -52,6 +52,7 @@
 .*zach.*\.repl\.co$
 .*eagler\.almondnet\.cn$
 .*leonwang10\.repl\.co$
+.*radmanplays\.github\.io$
 
 # block ambiguous domains (excuse the regex skill issues)
 ^(?!g\.deev\.is).*deev\.is$
